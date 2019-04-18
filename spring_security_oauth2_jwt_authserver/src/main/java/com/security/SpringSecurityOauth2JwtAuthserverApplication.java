@@ -11,6 +11,7 @@ public class SpringSecurityOauth2JwtAuthserverApplication {
 	 * This application using following configuration
 	 * 1) Token Enhancer to add extra claims
 	 * 2) Symmetric key (123) to encode the jwt at auth server and decode the jwt at resource server
+	 
 	 */
 	
 	public static void main(String[] args) {
